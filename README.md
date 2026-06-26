@@ -1,2 +1,2 @@
 # python_practice
-practicing DSA related questions
+Practicing DSA related questions
